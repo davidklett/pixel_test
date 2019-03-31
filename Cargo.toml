@@ -1,0 +1,8 @@
+[package]
+name = "bresenham"
+version = "0.1.0"
+authors = ["David Klett <david.ger.klett@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+raster = "0.0.7"
